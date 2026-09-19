@@ -9,7 +9,7 @@ Each folder covers a topic and contains progressively ordered problems with a st
 | Folder | Topic |
 | ------ | ----- |
 | 1. Bitwise Operations | 13 problems on setting, clearing, toggling, and testing bits |
-| 2. Bit Field Operations | 8 problems on extracting and replacing bit fields |
+| 2. Bit Field Operations | 11 problems on extracting and replacing bit fields |
 | 3. Bitwise Rotation and Counting | 8 problems on bit rotation, counting, and bit spreading |
 | 4. Array Manipulation | 6 problems on arrays, checksums, and sliding windows |
 | 5. Pointer | 15 problems on pointer arithmetic, double pointers, and function pointers |
