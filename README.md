@@ -13,9 +13,9 @@ Each folder covers a topic and contains progressively ordered problems with a st
 | 3. Bitwise Rotation and Counting | 8 problems on bit rotation, counting, and bit spreading |
 | 4. Array Manipulation | 6 problems on arrays, checksums, and sliding windows |
 | 5. Pointer | 15 problems on pointer arithmetic, double pointers, and function pointers |
-| 6. Unions | (coming soon) |
-| 7. Structures | 2 problems on structs, bitfields, and UART frames |
-| 8. Circular Buffers and Stack | (coming soon) |
+| 6. Unions | 6 problems on register overlays, packet layout, and byte extraction |
+| 7. Structures | 7 problems on structs, bitfields, padding, and UART frames |
+| 8. Circular Buffers and Stack | 2 problem on circular buffer insertion |
 | 9. Strings and Character Handling | (coming soon) |
 | 10. Searching and Sorting | 7 problems on linear and binary search |
 | 11. Data Conversion and Encoding | (coming soon) |
