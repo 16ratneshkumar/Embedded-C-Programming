@@ -15,10 +15,10 @@ Each folder covers a topic and contains progressively ordered problems with a st
 | 5. Pointer | 15 problems on pointer arithmetic, double pointers, and function pointers |
 | 6. Unions | 6 problems on register overlays, packet layout, and byte extraction |
 | 7. Structures | 7 problems on structs, bitfields, padding, and UART frames |
-| 8. Circular Buffers and Stack | 2 problem on circular buffer insertion |
-| 9. Strings and Character Handling | (coming soon) |
+| 8. Circular Buffers and Stack | 4 problems on circular buffers and array-backed stacks |
+| 9. Strings and Character Handling | 9 problems on custom string functions, parsing, and classification |
 | 10. Searching and Sorting | 7 problems on linear and binary search |
-| 11. Data Conversion and Encoding | (coming soon) |
+| 11. Data Conversion and Encoding | 2 problems on endianness and binary representation |
 | 12. Arithmetic Edge Cases | 4 problems on overflow, underflow, and signed/unsigned traps |
 
 ## Usage
@@ -28,7 +28,7 @@ Each problem is self-contained:
 - **Problem Statement** – what to implement and the exact input/output contract.
 - **Examples** – sample inputs and expected outputs.
 - **Hints** – starting points if you get stuck.
-- **Solution** – one possible C implementation.
+- **Solution** – one or more possible C implementations, labeled `Solution 1`, `Solution 2`, and so on.
 
 ## License
 
